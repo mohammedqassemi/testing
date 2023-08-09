@@ -1,0 +1,68 @@
+
+    img{
+        width: 450px;
+        border-radius: 40px;
+    }
+p { 
+    font-family:arial ;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+
+.video-title{
+font-weight: bold;
+font-size:18px;
+width: 500px;
+line-height: 25px;
+margin-bottom: 5px;
+}
+
+.video-stats{
+font-family: arial;
+font-size: 14px;
+color: gray;
+margin-bottom: 20px;
+}
+
+
+.video-author{
+font-family: arial;
+color: gray;
+font-size: 15px;
+margin-bottom: 20px;
+
+}
+
+.video-description{
+
+font-family:arial;
+font-size: 20px;
+color: gray;
+width: 500px;
+line-height: 28.7px;
+margin-bottom: 20px;
+}
+
+.apple-text{
+margin-bottom:5cm;
+font-size: 17.5px;
+background-color: red;
+color: white;
+text-align: center;
+padding-top:0.3cm ;
+padding-bottom: 0.3cm;
+}
+.shop-link{
+color: black;
+cursor: pointer;
+margin-left: 0.5cm;
+}
+.shop-link:hover{
+color: white;
+text-decoration: underline;
+}
+.shop-link:active{
+color: gray;
+}
